@@ -1,5 +1,5 @@
 # Projeto-portfolio
-Repositório de um Projeto de portfólio, servindo aos Desenvolvedores iniciantes como ideia de um possível site persoal.
+Repositório de um Projeto de portfólio, servindo aos Desenvolvedores iniciantes como ideia de um possível site pessoal.
 
 # Sobre o projeto
 O projeto foi desenvolvido para colocar em prática o conhecimento obtido no curso de HTML e CSS do Origamid. Objetivo do projeto era testar exaustivamente propriedades do CSS Display, Box model, Grid, Flexbox, Pseudo-elementos, Pseudo-classes e Seletores. 
